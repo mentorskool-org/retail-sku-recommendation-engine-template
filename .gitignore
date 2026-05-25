@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables / secrets
+.env
+.env.local
+*.secret
+secrets.json
+config.local.yml
+
+# Data — keep folders, ignore raw/processed contents (mentor will provide)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/**/README.md
+
+# Large files
+*.parquet
+*.feather
+*.h5
+*.pkl
+*.joblib
+
+# Power BI temp
+*.pbix.tmp
+.~lock.*
+
+# Mentor-only / internal — never push to the template repo
+CLASSROOM_SETUP.md
+classroom_roster.csv
+roster_reference.md
+
+# Logs
+*.log
+logs/
+
+# Coverage
+.coverage
+htmlcov/
+.pytest_cache/
