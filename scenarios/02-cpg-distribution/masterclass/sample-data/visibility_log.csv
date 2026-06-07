@@ -1,0 +1,5 @@
+visibility_id,visit_id,store_id,store_name,rep_id,placement_date,material_type,brand,sku_name,location_in_store,condition,expiry_date,photo_captured
+VIS20251014001,V20251014001,S001,Mike's Corner Store,R112,2025-10-14,Shelf Strip,Doritos,Doritos Nacho Cheese,Aisle 3 - Snack Section,New,2025-12-31,Yes
+VIS20251014002,V20251014004,S004,Sarah's Supermart,R112,2025-10-14,Counter Display,Cheetos,Cheetos Flamin' Hot,Checkout Counter,New,2025-12-31,Yes
+VIS20251015001,V20251015002,S010,Westside Provision,R112,2025-10-15,Hanging Sign,Lay's,Lay's Classic,Store Entrance,New,2026-01-31,Yes
+VIS20251015002,V20251015007,S015,Western Stores,R112,2025-10-15,Shelf Strip,Doritos,Doritos Cool Ranch,Aisle 2 - Chips,New,2025-12-31,Yes

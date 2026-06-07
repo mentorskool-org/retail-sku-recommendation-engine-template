@@ -1,0 +1,16 @@
+visit_id,store_id,store_name,rep_id,rep_name,visit_date,check_in_time,check_out_time,latitude,longitude,visit_status,route_plan
+V20251014001,S001,Mike's Corner Store,R112,Mike Johnson,2025-10-14,09:12:00,09:38:00,30.2590,-97.7345,Productive,ATX-4th-South
+V20251014002,S002,Tony's Provision,R112,Mike Johnson,2025-10-14,09:52:00,10:14:00,30.2612,-97.7301,Productive,ATX-4th-South
+V20251014003,S003,James Grocery,R112,Mike Johnson,2025-10-14,10:28:00,10:35:00,30.2634,-97.7278,Non-productive,ATX-4th-South
+V20251014004,S004,Sarah's Supermart,R112,Mike Johnson,2025-10-14,10:50:00,11:22:00,30.2651,-97.7312,Productive,ATX-4th-South
+V20251014005,S005,Quick Stop,R112,Mike Johnson,2025-10-14,11:35:00,11:42:00,30.2668,-97.7289,Non-productive,ATX-4th-South
+V20251014006,S006,New Central Store,R112,Mike Johnson,2025-10-14,11:58:00,12:18:00,30.2685,-97.7256,Productive,ATX-4th-South
+V20251014007,S007,Austin Market,R112,Mike Johnson,2025-10-14,13:15:00,13:22:00,30.2701,-97.7234,Non-productive,ATX-4th-South
+V20251014008,S008,Fresh Corner,R112,Mike Johnson,2025-10-14,13:38:00,14:02:00,30.2718,-97.7211,Productive,ATX-4th-South
+V20251015001,S009,Northside Store,R112,Mike Johnson,2025-10-15,09:08:00,09:32:00,30.2805,-97.7190,Productive,ATX-4th-North
+V20251015002,S010,Westside Provision,R112,Mike Johnson,2025-10-15,09:48:00,10:15:00,30.2823,-97.7168,Productive,ATX-4th-North
+V20251015003,S011,Maria's Traders,R112,Mike Johnson,2025-10-15,10:30:00,10:38:00,30.2840,-97.7145,Non-productive,ATX-4th-North
+V20251015004,S012,JP Store,R112,Mike Johnson,2025-10-15,10:52:00,10:58:00,30.2856,-97.7122,Non-productive,ATX-4th-North
+V20251015005,S013,Central Mart,R112,Mike Johnson,2025-10-15,11:12:00,11:45:00,30.2873,-97.7098,Productive,ATX-4th-North
+V20251015006,S014,Eastside Store,R112,Mike Johnson,2025-10-15,12:02:00,12:22:00,30.2890,-97.7075,Productive,ATX-4th-North
+V20251015007,S015,Western Stores,R112,Mike Johnson,2025-10-15,12:38:00,13:05:00,30.2907,-97.7052,Productive,ATX-4th-North

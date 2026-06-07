@@ -1,0 +1,6 @@
+oos_id,visit_id,store_id,store_name,rep_id,report_date,sku_id,sku_name,category,pack_size,estimated_days_oos,last_order_date,notes
+OOS20251014001,V20251014001,S001,Mike's Corner Store,R112,2025-10-14,SKU001,Lay's Classic,Potato Chips,10oz,2,2025-10-07,Shelf empty - high demand last week
+OOS20251014002,V20251014005,S005,Quick Stop,R112,2025-10-14,SKU010,Doritos Cool Ranch,Tortilla Chips,9.25oz,5,2025-09-30,Owner says distributor hasn't delivered
+OOS20251014003,V20251014008,S008,Fresh Corner,R112,2025-10-14,SKU018,Cheetos Flamin' Hot,Cheese Snacks,8.5oz,1,2025-10-11,Sold out over weekend - reorder placed
+OOS20251015001,V20251015002,S010,Westside Provision,R112,2025-10-15,SKU001,Lay's Classic,Potato Chips,10oz,3,2025-10-07,Product in back storage not on shelf
+OOS20251015002,V20251015006,S014,Eastside Store,R112,2025-10-15,SKU010,Doritos Cool Ranch,Tortilla Chips,9.25oz,4,2025-10-02,Owner unaware it was out of stock

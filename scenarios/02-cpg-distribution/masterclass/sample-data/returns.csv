@@ -1,0 +1,6 @@
+return_id,visit_id,store_id,store_name,rep_id,return_date,sku_id,sku_name,quantity_units,unit_price,return_value,reason,condition,batch_number,manufacturing_date,best_by_date
+RET20251014001,V20251014001,S001,Mike's Corner Store,R112,2025-10-14,SKU045,Fritos Original,6,3.43,20.58,Damaged packaging,Crushed bags - not sellable,BTX20250815,2025-08-15,2026-02-15
+RET20251014002,V20251014004,S004,Sarah's Supermart,R112,2025-10-14,SKU022,Tostitos Scoops,4,3.98,15.92,Damaged packaging,Torn bags - product exposed,BTX20250901,2025-09-01,2026-03-01
+RET20251014003,V20251014008,S008,Fresh Corner,R112,2025-10-14,SKU003,Lay's Barbecue,8,2.95,23.60,Expired,Past best-by date,BTX20250501,2025-05-01,2025-10-01
+RET20251015001,V20251015002,S010,Westside Provision,R112,2025-10-15,SKU015,Cheetos Crunchy,3,3.64,10.92,Damaged packaging,Water damage to outer packaging,BTX20250720,2025-07-20,2026-01-20
+RET20251015002,V20251015005,S013,Central Mart,R112,2025-10-15,SKU001,Lay's Classic,5,2.95,14.75,Expired,Past best-by date,BTX20250415,2025-04-15,2025-10-15
